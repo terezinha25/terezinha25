@@ -1,7 +1,15 @@
-##  BOAS VINDAS AO MEU PERFIL🇦🇫
+##  BOAS VINDAS AO MEU PERFIL✈🍷
 
 MEU NOME É GABI
 
-- ESTOU ESTUDANDO NA [ALURA].(HTTPS://WWW.ALURA.COM.BR)
+- Estou estudando na [ALURA].(HTTPS://WWW.ALURA.COM.BR),
+  
+- Estou me desenvolvendo na linguagem JavaScript,
+  
+- Utiliso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos,
 
-- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAV
+  ## Você pode entrar em contato comigo
+  
+  - @gabriellaterezinhaguimaraes
+    
+ ![](https://media.tenor.com/eaDPAe9OLSoAAAAM/cat-kissing.gif)
